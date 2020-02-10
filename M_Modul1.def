@@ -1,0 +1,8 @@
+Option Compare Database
+Option Explicit
+
+Sub test()
+
+'Hallo
+
+End Sub
